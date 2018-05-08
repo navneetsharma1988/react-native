@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\Learning\Workspaces\ReactNative\rn-course\android\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\Learning\Workspaces\ReactNative\rn-course\android\app\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/navneetsharma/Documents/Learning/Workspace/awesome-places/android/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/navneetsharma/Documents/Learning/Workspace/awesome-places/android/app/src/debug/jniLibs"/></dataSet></merger>

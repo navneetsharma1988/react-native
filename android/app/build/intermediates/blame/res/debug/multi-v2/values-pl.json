@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Learning\\Workspaces\\ReactNative\\rn-course\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pl\\values-pl.xml",
+            "outputFile": "/Users/navneetsharma/Documents/Learning/Workspace/awesome-places/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\navneetsharma\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\b730de211c28ff2d5483f5eda99efcca\\res\\values-pl\\values-pl.xml",
+                    "source": "/Users/navneetsharma/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1129e8dfc189ee7c3d3f95f31db0a10a/res/values-pl/values-pl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\navneetsharma\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.0.1.aar\\e149361788ed36636ea9dac9c8ab46da\\res\\values-pl\\values.xml",
+                    "source": "/Users/navneetsharma/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/b59e58eae4b8bd970e20fa7b2456001c/res/values-pl/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\navneetsharma\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-10.0.1.aar\\5acddbbc386e62879d60b37063a134b2\\res\\values-pl\\values.xml",
+                    "source": "/Users/navneetsharma/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/bc57d75456df18521fe68a13c8a23f67/res/values-pl/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

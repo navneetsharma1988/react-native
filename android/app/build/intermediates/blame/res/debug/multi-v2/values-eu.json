@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Learning\\Workspaces\\ReactNative\\rn-course\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu\\values-eu.xml",
+            "outputFile": "/Users/navneetsharma/Documents/Learning/Workspace/awesome-places/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu/values-eu.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\navneetsharma\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.0.1.aar\\e149361788ed36636ea9dac9c8ab46da\\res\\values-eu\\values.xml",
+                    "source": "/Users/navneetsharma/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/b59e58eae4b8bd970e20fa7b2456001c/res/values-eu/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\navneetsharma\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-10.0.1.aar\\5acddbbc386e62879d60b37063a134b2\\res\\values-eu\\values.xml",
+                    "source": "/Users/navneetsharma/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/bc57d75456df18521fe68a13c8a23f67/res/values-eu/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
